@@ -1,0 +1,4 @@
+db_type: mysql
+connect_str: root:123456@tcp(121.4.181.166:3306)/gormTest?charset=utf8mb4&parseTime=True&loc=Local
+is_debug: True
+log_level: 1
